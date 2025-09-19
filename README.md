@@ -1,44 +1,58 @@
 # Oi 👋 Eu sou Gabriel Molinari da Rocha
 
-**📍 Canoas, Rio Grande do Sul**  
-**🎓 Estudante de Engenharia de Software**
-
 ---
 
 ## 💼 Sobre mim
 
-- Me chamo **Gabriel Molinari da Rocha**
-- Estudo Engenharia de Software
-- Gosto de aprender novas tecnologias, resolver problemas e compartilhar conhecimento
+
+<img src="GokuSJ2-Photoroom.png"  width="150px" align="right"/>
+
+
+- Meu nome é **Gabriel Molinari da Rocha**, tenho [sua idade aqui].
+- Sou de **Canoas, RS**.
+- Estudante de **Engenharia de Software**.
+- Curioso e apaixonado por aprender novas tecnologias e resolver problemas.
 
 ---
 
 ## 🚀 Habilidades
 
-<div>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical)](https://github.com/Gabriel0090)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&theme=radical)](https://github.com/Gabriel0090)
+<div align="center">
+  <a href="https://github.com/Gabriel0090">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
 ---
 
-## 🔗 Contatos & Redes
+## 📫 Entre em contato comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gabriel-molinari-da-rocha-)](https://www.linkedin.com/in/gabriel-molinari-da-rocha-)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white&link=https://github.com/Gabriel0090)](https://github.com/Gabriel0090)  
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriel.molinari007/)](https://www.instagram.com/gabriel.molinari007/)
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-molinari-da-rocha-" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gabriel.molinari007/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
 ---
+<div align="center">
+<img src="batman.png"  width="200px" />
+</div>
