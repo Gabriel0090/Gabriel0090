@@ -8,7 +8,7 @@
 <img src="GokuSJ2-Photoroom.png"  width="150px" align="right"/>
 
 
-- Meu nome é **Gabriel Molinari da Rocha**, tenho [sua idade aqui].
+- Meu nome é **Gabriel Molinari da Rocha**, tenho 18 anos.
 - Sou de **Canoas, RS**.
 - Estudante de **Engenharia de Software**.
 - Curioso e apaixonado por aprender novas tecnologias e resolver problemas.
