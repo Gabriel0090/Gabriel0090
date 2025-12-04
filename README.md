@@ -30,24 +30,20 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Gabriel0090">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 
 ---
 
 ## 📫 Entre em contato comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-molinari-da-rocha-" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/gabriel.molinari007/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 
 ---
 
