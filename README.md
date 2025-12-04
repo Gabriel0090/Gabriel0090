@@ -4,7 +4,7 @@
 
 ## 💼 Sobre mim
 
-<img src="GokuSJ2-Photoroom.png" width="150px" align="right" alt="Goku Pixel Art"/>
+<img src="GokuSJ2-Photoroom.png" width="150" align="right" alt="Goku Pixel Art"/>
 
 - Meu nome é **Gabriel Molinari da Rocha**, tenho 18 anos.
 - Sou de **Canoas, RS**.
@@ -31,8 +31,8 @@
 
 <div align="center">
   <a href="https://github.com/Gabriel0090">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
@@ -52,5 +52,5 @@
 ---
 
 <div align="center">
-  <img src="batman.png" width="200px" alt="Batman Logo" />
+  <img src="batman.png" width="200" alt="Batman Logo" />
 </div>
