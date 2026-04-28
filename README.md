@@ -4,51 +4,59 @@
 
 ## 💼 Sobre mim
 
-<img src="GokuSJ2-Photoroom.png" width="150" align="right" alt="Goku Pixel Art"/>
+<table>
+<tr>
+<td>
 
-- Meu nome é **Gabriel Molinari da Rocha**, tenho 18 anos.
-- Sou de **Canoas, RS**.
-- Estudante de **Engenharia de Software**.
-- Curioso e apaixonado por aprender novas tecnologias e resolver problemas.
+- Meu nome é **Gabriel Molinari da Rocha**, tenho 18 anos
+- Sou de **Canoas, RS**
+- Estudante de **Engenharia de Software**
+- Curioso e apaixonado por aprender novas tecnologias e resolver problemas
 
-<br clear="right">
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/Gabriel0090/Gabriel0090/main/GokuSJ2-Photoroom.png" width="150"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Habilidades
 
-<div align="center">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0090&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0090&layout=compact&theme=radical"/>
+</p>
 
 ---
 
 ## 📫 Entre em contato comigo
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-molinari-da-rocha-" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-molinari-da-rocha-">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/gabriel.molinari007/" target="_blank">
+  <a href="https://www.instagram.com/gabriel.molinari007/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <img src="batman.png" width="200" alt="Batman Logo" />
+<div style="display:flex; gap:0;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl2NzN5b20zbzBsaWN2YWNsOGhldDQ4aHpmYXh0MXg1Nmd0YW02diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="50%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl2NzN5b20zbzBsaWN2YWNsOGhldDQ4aHpmYXh0MXg1Nmd0YW02diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="50%">
 </div>
